@@ -33,7 +33,7 @@ pywhatkit
 ## Installation
 1. Clone the repository (if hosted):
    ```
-   git clone https://github.com/your-username/Noise-Monitoring-System.git
+   https://github.com/mrlucifer006/Noise_sense
    ```
 2. Install Python 3.10 and ensure the latest `pip` version:
    ```
